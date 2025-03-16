@@ -19,7 +19,7 @@
 ---
 
 ## 🔥 동작 영상 (Demo)
-[![Watch the video](https://youtu.be/T4jTqlzCSbk)
+[![Watch the video](docs/demo-thumbnail.png)](https://youtu.be/T4jTqlzCSbk)
 
 📢 **설명:**  
 위의 영상을 클릭하면 신호등의 작동 원리를 확인할 수 있습니다.
