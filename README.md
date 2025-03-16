@@ -1,5 +1,5 @@
 # 🚦 Arduino Traffic Light Control System
-![Project Thumbnail]()
+![Project Thumbnail](IMG_0549.JPG)
 
 > **p5.js 기반 웹 인터페이스와 아두이노를 이용한 신호등 제어 시스템**  
 > 실시간으로 신호등의 상태를 조절하고, 웹 인터페이스에서 조작 가능!
