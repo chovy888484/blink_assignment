@@ -44,6 +44,7 @@ void handleButtonToggleCycle();
 void processSerialData();
 void sendTrafficLightStatus();
 
+// 초기 기본 동작 설정 시간
 int redTime = 2000, yellowTime = 500, greenTime = 2000;
 
 // Task 생성
@@ -286,7 +287,7 @@ void loop() {
     int brightness = map(potValue, 0, 1023, 0, 255);  
 
 
-    if (isBlinkAll) return; // BlinkAll 모드에서는 아래 코드 실행 X
+    if (isBlinkAll) return;
 
     if (digitalRead(red) == HIGH) {
         analogWrite(red, brightness);
